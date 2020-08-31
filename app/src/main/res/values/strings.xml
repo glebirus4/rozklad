@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rozklad</string>
+    <string name="pn">Понеділок</string>
+    <string name="first">1)Українська мова\n2)ОЕТ\n3)Фізкультура</string>
+    <string name="vt">Вівторок</string>
+    <string name="second">1)__/Музичне мистецтво\n2)Інформатика\n3)Дитяча література\n4)Мем</string>
+    <string name="sr">Середа</string>
+    <string name="three">1)Громадянська Освіта\n2)Основи культури і техніки мовлення\n3)Інформатика/Іноземна мова</string>
+    <string name="cht">Четвер</string>
+    <string name="fourth">1)Математика\n2)Методика математики\n3)Історія України\n4)Екологія</string>
+    <string name="pt">П\'ятниця</string>
+    <string name="last">1)Психологія\n2)????/????\n3)??????</string>
+</resources>
