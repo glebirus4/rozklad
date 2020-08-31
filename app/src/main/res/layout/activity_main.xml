@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#AC5BB1"
     tools:context=".MainActivity">
 
 
@@ -16,7 +17,7 @@
         android:layout_marginEnd="50dp"
         android:onClick="ponedilok"
         android:text="@string/pn"
-        android:textColor="#5C00FF"
+        android:textColor="#1B0E65"
         android:textSize="26sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
@@ -32,7 +33,7 @@
         android:layout_marginEnd="50dp"
         android:onClick="vivtorok"
         android:text="@string/vt"
-        android:textColor="#FF6F00"
+        android:textColor="@color/colorButton"
         android:textSize="26sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -47,6 +48,7 @@
         android:layout_marginEnd="50dp"
         android:onClick="sereda"
         android:text="@string/sr"
+        android:textColor="@color/colorButton"
         android:textSize="26sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -59,6 +61,7 @@
         android:layout_marginStart="50dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="50dp"
+        android:textColor="@color/colorButton"
         android:onClick="chetver"
         android:text="@string/cht"
         android:textSize="26sp"
@@ -74,12 +77,28 @@
         android:layout_marginTop="24dp"
         android:layout_marginEnd="50dp"
         android:onClick="last"
+        android:textColor="@color/colorButton"
         android:text="@string/pt"
         android:textSize="26sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button2" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="16dp"
+        android:onClick="time123"
+        android:text="@string/time"
+        android:textColor="@color/colorButton"
+        android:textSize="26sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

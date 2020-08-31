@@ -18,36 +18,37 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun ponedilok(view: View) {
-        val editText = findViewById<EditText>(R.id.editText)
         val intent = Intent(this, Main3Activity::class.java).apply {
         }
         startActivity(intent)
     }
 
     fun vivtorok(view: View) {
-        val editText = findViewById<EditText>(R.id.editText)
         val intent = Intent(this, MainActivity2::class.java).apply {
         }
         startActivity(intent)
     }
 
     fun sereda(view: View) {
-        val editText = findViewById<EditText>(R.id.editText)
         val intent = Intent(this, MainActivity3::class.java).apply {
         }
         startActivity(intent)
     }
 
     fun chetver(view: View) {
-        val editText = findViewById<EditText>(R.id.editText)
         val intent = Intent(this, MainActivity4::class.java).apply {
         }
         startActivity(intent)
     }
 
     fun last(view: View) {
-        val editText = findViewById<EditText>(R.id.editText)
         val intent = Intent(this, MainActivity5::class.java).apply {
+        }
+        startActivity(intent)
+    }
+
+    fun time123(view: View) {
+        val intent = Intent(this, MainActivity6::class.java).apply {
         }
         startActivity(intent)
     }
