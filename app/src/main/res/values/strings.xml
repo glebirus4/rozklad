@@ -5,11 +5,13 @@
     <string name="vt">Вівторок</string>
     <string name="second">1)__/Музичне мистецтво\n2)Інформатика\n3)Дитяча література\n4)Мем</string>
     <string name="sr">Середа</string>
-    <string name="three">1)Громадянська Освіта\n2)Основи культури і техніки мовлення\n3)Інформатика/Іноземна мова</string>
+    <string name="three">1)Громадянська Освіта\n2)Основи культури і техніки мовлення\n3)Інформатика/Іноземна мова\n4)Методика математики</string>
     <string name="cht">Четвер</string>
-    <string name="fourth">1)Математика\n2)Методика математики\n3)Історія України\n4)Екологія</string>
+    <string name="fourth">2)Екологія\n3)Історія України\n4)Математика</string>
     <string name="pt">П\'ятниця</string>
-    <string name="last">1)Психологія\n2)????/????\n3)??????</string>
+    <string name="last">1)Психологія\n2)ПКІМ/МетНІ\n3)МнПог</string>
     <string name="time">Дзвінки</string>
     <string name="time1">1)08:00–09:20\n2)09:35–10:55\n3)11:10–12:30\n4)13:00–14:20</string>
+    <string name="books">Книги</string>
+    <string name="book1">Історія України</string>
 </resources>

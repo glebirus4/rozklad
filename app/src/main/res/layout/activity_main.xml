@@ -8,6 +8,9 @@
     tools:context=".MainActivity">
 
 
+
+
+
     <Button
         android:id="@+id/pn"
         android:layout_width="wrap_content"
@@ -23,6 +26,22 @@
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Button
+        android:id="@+id/asd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="16dp"
+        android:onClick="knigi"
+        android:text="@string/books"
+        android:textColor="@color/colorButton"
+        android:textSize="26sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints,MissingConstraintsk" />
 
     <Button
         android:id="@+id/button7"
@@ -89,16 +108,14 @@
         android:id="@+id/button4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="50dp"
-        android:layout_marginEnd="50dp"
+        android:layout_marginEnd="40dp"
         android:layout_marginBottom="16dp"
         android:onClick="time123"
         android:text="@string/time"
         android:textColor="@color/colorButton"
         android:textSize="26sp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintEnd_toEndOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
