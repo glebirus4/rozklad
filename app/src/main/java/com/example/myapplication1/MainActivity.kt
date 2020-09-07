@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         startActivity(intent)
     }
 
-    fun vivtorok(view: View) {
+    fun vivtorok(view: View) {  
         val intent = Intent(this, MainActivity2::class.java).apply {
         }
         startActivity(intent)
@@ -52,6 +52,12 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
     fun time123(view: View) {
         val intent = Intent(this, MainActivity6::class.java).apply {
+        }
+        startActivity(intent)
+    }
+
+    fun notes(view: View) {
+        val intent = Intent(this, MainActivity8::class.java).apply {
         }
         startActivity(intent)
     }

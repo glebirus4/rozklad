@@ -22,4 +22,14 @@ class MainActivity7 : AppCompatActivity() {
                     startActivity(intent)
                 }}
         } }
+
+    fun onClick1(view: View?) {
+        when(view?.id){
+            R.id.tv2->{
+                val webpage: Uri = Uri.parse("https://pidruchnyk.com.ua/447-ekonomka-radonova-11-klas.html")
+                val intent = Intent(Intent.ACTION_VIEW, webpage)
+                if (intent.resolveActivity(packageManager) != null) {
+                    startActivity(intent)
+                }}
+        }}
 }

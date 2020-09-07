@@ -3,15 +3,30 @@
     <string name="pn">Понеділок</string>
     <string name="first">1)Українська мова\n2)ОЕТ\n3)Фізкультура</string>
     <string name="vt">Вівторок</string>
-    <string name="second">1)__/Музичне мистецтво\n2)Інформатика\n3)Дитяча література\n4)Мем</string>
+    <string name="second">1)__/Музичне мистецтво\n2)Інформатика\n3)Дитяча література\n4)МУМ/…</string>
     <string name="sr">Середа</string>
     <string name="three">1)Громадянська Освіта\n2)Основи культури і техніки мовлення\n3)Інформатика/Іноземна мова\n4)Методика математики</string>
     <string name="cht">Четвер</string>
     <string name="fourth">2)Екологія\n3)Історія України\n4)Математика</string>
     <string name="pt">П\'ятниця</string>
-    <string name="last">1)Психологія\n2)ПКІМ/МетНІ\n3)МнПог</string>
+    <string name="last">1)Психологія\n2)ПКІМ/Методика інозем.\n3)Трудове</string>
     <string name="time">Дзвінки</string>
     <string name="time1">1)08:00–09:20\n2)09:35–10:55\n3)11:10–12:30\n4)13:00–14:20</string>
     <string name="books">Книги</string>
     <string name="book1">Історія України</string>
+    <string name="predmet1">1</string>
+    <string name="predmet2">2</string>
+    <string name="predmet3">3</string>
+    <string name="predmet4">4</string>
+    <string name="predmet5">5</string>
+    <string name="predmet6">6</string>
+    <string name="predmet7">7</string>
+    <string name="load_default">Load default</string>
+    <string name="save">SAVE</string>
+    <string name="clear">CLEAR</string>
+    <string name="load">Load</string>
+    <string name="notes">Нотатки</string>
+    <string name="eko">Екологія</string>
+
+
 </resources>
