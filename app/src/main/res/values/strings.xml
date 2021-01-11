@@ -1,19 +1,17 @@
 <resources>
     <string name="app_name">Rozklad</string>
     <string name="pn">Понеділок</string>
-    <string name="first">1)Українська мова\n2)Методтка математики\n3)Фізкультура\n4)МУМ</string>
+    <string name="first">1)Інформатика\n2)Англійська мова\n3)Фізика\n4)Всесітня історія\n5)Зарубіжна Література\n6)Географія\n7)Курс</string>
     <string name="vt">Вівторок</string>
-    <string name="second">1)__/Музичне мистецтво\n2)Інформатика\n3)Дитяча література</string>
+    <string name="second">1)Українська мова\n2)Геометрія\n3)Мистецтво\n4)Фізра\n5)Англійська мова\n6)Хімія\n7)Укр літ</string>
     <string name="sr">Середа</string>
-    <string name="three">1)Громадянська Освіта\n2)Основи культури і техніки мовлення\n3)Іноземна мова/Інформатика</string>
+    <string name="three">1)Укр літ\n2)Біологія\n3)Історія України\n4)Фізика\n5)Фізра\n6)Захист України\n7)Мистецтво</string>
     <string name="cht">Четвер</string>
-    <string name="fourth">1)Економіка\n2)Екологія\n3)Історія України\n4)Математика</string>
+    <string name="fourth">1)Історія України\n2)Фізика\n3)Алгебра\n4)Історія України\n5)Англійська Мова\n6)Укр мова\n7)Зах укр/Географія</string>
     <string name="pt">П\'ятниця</string>
-    <string name="last">1)Психологія\n2)ПКІМ/Методика інозем.\n3)Трудове</string>
+    <string name="last">1)Біологія\n2)Астрономія\n3)Геометрія\n4)Хімія\n5)Всесвітня історія\n6)Всесвітня історія\n7)Фізра</string>
     <string name="time">Дзвінки</string>
-    <string name="time1">1)08:00–09:20\n2)09:35–10:55\n3)11:10–12:30\n4)13:00–14:20</string>
-    <string name="books">Книги</string>
-    <string name="book1">Історія України</string>
+    <string name="time1">1)09:00–09:30\n2)09:40–10:10\n3)10:20–10:50\n4)11:00–11:30\n5)11:40-12:10\n6)12:20-12:50\n7)13:00-13:30</string>
     <string name="predmet1">1</string>
     <string name="predmet2">2</string>
     <string name="predmet3">3</string>
@@ -26,7 +24,7 @@
     <string name="clear">CLEAR</string>
     <string name="load">Load</string>
     <string name="notes">Нотатки</string>
-    <string name="eko">Екологія</string>
+
 
 
 </resources>

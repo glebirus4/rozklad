@@ -67,23 +67,9 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         const val EXTRA_MESSAGE = "com.example.myfirstapp.MESSAGE"
     }
 
-
-    override fun onClick(view: View?) {
-        when(view?.id){
-            R.id.tv1->{
-                     val webpage: Uri = Uri.parse("https://github.com/glebirus4/rozklad")
-                    val intent = Intent(Intent.ACTION_VIEW, webpage)
-                    if (intent.resolveActivity(packageManager) != null) {
-                        startActivity(intent)
-                    }}
-} }
-
-    fun knigi(view: View) {
-        val intent = Intent(this, MainActivity7::class.java).apply {
-        }
-        startActivity(intent)
+    override fun onClick(v: View?) {
+        TODO("Not yet implemented")
     }
-
 
 
 }
