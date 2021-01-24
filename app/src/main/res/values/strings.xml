@@ -3,7 +3,7 @@
     <string name="pn">Понеділок</string>
     <string name="first">1)Інформатика\n2)Англійська мова\n3)Фізика\n4)Всесітня історія\n5)Зарубіжна Література\n6)Географія\n7)Курс</string>
     <string name="vt">Вівторок</string>
-    <string name="second">1)Українська мова\n2)Геометрія\n3)Мистецтво\n4)Фізра\n5)Англійська мова\n6)Хімія\n7)Укр літ</string>
+    <string name="second">1)Українська мова\n2)Алгебра\n3)Мистецтво\n4)Фізра\n5)Англійська мова\n6)Хімія\n7)Укр літ</string>
     <string name="sr">Середа</string>
     <string name="three">1)Укр літ\n2)Біологія\n3)Історія України\n4)Фізика\n5)Фізра\n6)Захист України\n7)Мистецтво</string>
     <string name="cht">Четвер</string>
@@ -11,7 +11,7 @@
     <string name="pt">П\'ятниця</string>
     <string name="last">1)Біологія\n2)Астрономія\n3)Геометрія\n4)Хімія\n5)Всесвітня історія\n6)Всесвітня історія\n7)Фізра</string>
     <string name="time">Дзвінки</string>
-    <string name="time1">1)09:00–09:30\n2)09:40–10:10\n3)10:20–10:50\n4)11:00–11:30\n5)11:40-12:10\n6)12:20-12:50\n7)13:00-13:30</string>
+    <string name="time1">1)8.30–9.15\n2)9.25–10.10\n3)11.20–11.05\n4)11.25–12.10\n5)12.40–13.25\n6)13.35-14.20\n7)14.30-15.15</string>
     <string name="predmet1">1</string>
     <string name="predmet2">2</string>
     <string name="predmet3">3</string>

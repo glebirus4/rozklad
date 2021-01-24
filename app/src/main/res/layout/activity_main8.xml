@@ -4,36 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity7">
-
-    <Button
-        android:id="@+id/tv1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="bottom|center_horizontal"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="15dp"
-        android:onClick="onClick"
-        android:text="@string/book1"
-        android:textColor="@color/colorButton"
-        android:textSize="26sp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:ignore="MissingConstraints,MissingConstraintsk" />
-
-    <Button
-        android:id="@+id/tv2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="15dp"
-        android:onClick="onClick1"
-        android:text="@string/eko"
-        android:textColor="@color/colorButton"
-        android:textSize="26sp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv1" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+    tools:context=".MainActivity7"/>
 
 
 
